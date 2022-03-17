@@ -1,4 +1,9 @@
 
 Changes from <master>
+<<<<<<< HEAD
 Changes from <first>
 Text from master - new changes!!!
+=======
+Changes from <first> 
+Text from master: new changes!!!
+>>>>>>> 7c21421 (add 321)
